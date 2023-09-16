@@ -1,5 +1,4 @@
 > Tobias de Bildt  
-> 1023603  
 > 31-03-2023
 
 # Readme
@@ -49,9 +48,9 @@ To use the app, connect to `https://localhost` from your browser. In the first p
 
 | Command                | Function                               |
 |------------------------|----------------------------------------|
-| `BOT-1023603: led:aan` | Turns on the LED                       |
-| `BOT-1023603: led:uit` | Turns off the LED                      |
-| `BOT-1023603: temp`    | Returns the current temperature (in °C)|
+| `BOT-007: led:aan` | Turns on the LED                       |
+| `BOT-007: led:uit` | Turns off the LED                      |
+| `BOT-007: temp`    | Returns the current temperature (in °C)|
 
 <br>
 
